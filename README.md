@@ -8,6 +8,8 @@ it has an about me section including links to my email and phone number aswel as
 
 i have included a link to the deployed page
 
+https://dovahkiin1993.github.io/My--portfolio/
+
 ![portfolio pic](https://user-images.githubusercontent.com/119010245/217848837-0c4fa59c-d864-4bf4-af0c-11c5922d3543.png)
 
 
